@@ -1,0 +1,9 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(Roboto-Black.woff);
+  }
+
+p {
+    font-family: myFirstFont;
+    color: red;
+}
